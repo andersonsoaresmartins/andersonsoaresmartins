@@ -32,11 +32,14 @@ Olá, Mundo! 👋
 
 ---
 ## O que eu fiz essa semana:
-[![Status semanal](https://github-readme-stats.vercel.app/api/wakatime?username=andersonsoaresmartins&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andersonsoaresmartins)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 ---
 ## Me pague um café: 
 [<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />](https://www.buymeacoffee.com/opablosantos)
+-->
 
 <!--
 [<img src="" />](https://)
