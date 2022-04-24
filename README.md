@@ -1,7 +1,7 @@
 Olá, Mundo! 👋
 ---
 
-- 🔭 *Backend Developer, WEB DEVELOPER, apaixonado por tecnologia!!! Estou atualmente trabalhando com PHP e LARAVEL.*
+- 🔭 *Backend Developer, Web Developer, apaixonado por tecnologia!!! Estou atualmente trabalhando com PHP e LARAVEL.*
 
 <!-- - 🌱 *Atualmente focado em aprender* [<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />](https://laravel.com/) -->
 
@@ -33,7 +33,7 @@ Olá, Mundo! 👋
 ---
 ## O que eu fiz essa semana:
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andersonsoaresmartins)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asmartins)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ---
