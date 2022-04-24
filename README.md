@@ -2,11 +2,15 @@ Olá, Mundo! 👋
 ---
 
 - 🔭 *Backend Developer, WEB DEVELOPER, apaixonado por tecnologia!!! Estou atualmente trabalhando com PHP e LARAVEL.*
+
 <!-- - 🌱 *Atualmente focado em aprender* [<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />](https://laravel.com/) -->
 
 - 📫 ***Como entrar em contato comigo:***
+- 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/asmartins999/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/asmartins999) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/asmartins999) [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5511973406024) [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/asmartins) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/asmartins999)
+
+
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -19,6 +23,15 @@ Olá, Mundo! 👋
 
 ---
 ## Linguagens que mais estou usando:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&hide=contribs,prs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&show_icons=true)
+
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
