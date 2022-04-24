@@ -28,12 +28,12 @@ Olá, Mundo! 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=andersonsoaresmartins&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=andersonsoaresmartins&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## O que eu fiz essa semana:
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asmartins)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=asmartins)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ---
