@@ -24,15 +24,9 @@ Olá, Mundo! 👋
 ---
 ## Linguagens que mais estou usando:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&hide=contribs,prs)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&show_icons=true)
-
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## O que eu fiz essa semana:
