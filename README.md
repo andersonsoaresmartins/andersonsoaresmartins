@@ -1,7 +1,7 @@
 Sobre mim 👋
 ---
 
-- 🔭 *Backend Developer, Web Developer, apaixonado por tecnologia!!! Estou atualmente trabalhando com PHP e LARAVEL.*
+- 🔭 *Backend Web Developer, apaixonado por tecnologia!!! Estou atualmente trabalhando com PHP e LARAVEL.*
 
 <!-- - 🌱 *Atualmente focado em aprender* [<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />](https://laravel.com/) -->
 
@@ -60,6 +60,7 @@ Sobre mim 👋
 ## Me pague um café: 
 [<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />](https://www.buymeacoffee.com/opablosantos)
 -->
+
 
 <!--
 [<img src="" />](https://)
