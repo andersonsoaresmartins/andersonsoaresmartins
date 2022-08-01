@@ -23,41 +23,10 @@ Sobre mim 👋
 [<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />](https://www.apache.org/) 
 [<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />](https://www.linux.org/)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anderson's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact&theme=buefy&hide_border=true" />
-</a> |
-
-| ------------- | ------------- |
-
-<!--
-## Linguagens que mais estou usando:
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins)](https://github.com/anuraghazra/github-readme-stats)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=andersonsoaresmartins&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
--->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anderson's github stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 ---
 ## O que eu fiz essa semana:
 
 [![](https://github-readme-stats.vercel.app/api/wakatime?username=@asmartins)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
----
-## Me pague um café: 
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />](https://www.buymeacoffee.com/opablosantos)
--->
-
-
-<!--
-[<img src="" />](https://)
-https://natansl.medium.com/criando-um-readme-para-seu-perfil-no-github-6eb119218c4
-https://github.com/anuraghazra/github-readme-stats
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-https://www.markdownguide.org/basic-syntax/
--->
