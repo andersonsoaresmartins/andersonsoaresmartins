@@ -25,10 +25,19 @@ Sobre mim 👋
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&layout=default)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=default)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonsoaresmartins&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andersonsoaresmartins&repo=convoychat" />
+</a>
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## O que eu fiz essa semana:
 
-[![Status semanal](https://github-readme-stats.vercel.app/api/wakatime?username=asmartins&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Status semanal](https://github-readme-stats.vercel.app/api/wakatime?username=asmartins&layout=compact&hide_title=true&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
