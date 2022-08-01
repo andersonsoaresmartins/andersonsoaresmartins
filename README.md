@@ -23,7 +23,12 @@ Sobre mim 👋
 [<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />](https://www.apache.org/) 
 [<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />](https://www.linux.org/)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anderson's github stats"/></a>
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact&theme=buefy&hide_border=true"/></a>
 
 ---
