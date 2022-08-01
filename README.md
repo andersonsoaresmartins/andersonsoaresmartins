@@ -29,11 +29,6 @@ Sobre mim 👋
 | ------------- | ------------- |
 
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
 ## O que eu fiz essa semana:
 
 [![Status semanal](https://github-readme-stats.vercel.app/api/wakatime?username=asmartins&layout=compact&hide_title=true&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
