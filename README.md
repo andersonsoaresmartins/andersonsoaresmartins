@@ -31,5 +31,5 @@ Sobre mim 👋
 ---
 ## O que eu fiz essa semana:
 
-[![Status semanal](https://github-readme-stats.vercel.app/api/wakatime?username=asmartins&layout=compact&hide_title=true&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asmartins)](https://github.com/anuraghazra/github-readme-stats)
 
