@@ -25,6 +25,14 @@ Sobre mim 👋
 
 ---
 
+<div>
+<a href="https://github.com/seu-usuário-aquiandersonsoaresmartins">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact&langs_count=7&theme="/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&show_icons=true&theme=&include_all_commits=true&count_private=true"/>
+</div>
+
+
+<!--
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="[https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)" alt="Anderson's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
@@ -33,3 +41,4 @@ Sobre mim 👋
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asmartins)](https://github.com/anuraghazra/github-readme-stats)
 
+-->
