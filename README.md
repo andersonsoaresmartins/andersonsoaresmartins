@@ -21,5 +21,7 @@ Olá, Mundo! 👋
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+
 ## O que eu fiz essa semana:
-[![Status semanal](https://github-readme-stats.vercel.app/api/wakatime?username=@asmartins999&layout=compact&hide_title=true&hide_border=true)](https://github-readme-stats.vercel.app/api/wakatime?username=@asmartins&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Status semanal](https://github-readme-stats.vercel.app/api/wakatime?username=@asmartins999&layout=compact&hide_title=true&hide_border=true)(https://github-readme-stats.vercel.app/api/wakatime?username=@asmartins&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
