@@ -35,10 +35,10 @@ Sobre mim 👋
 <!--
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="[https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&show_icons=true&count_private=true&hide_border=true](https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)" alt="Anderson's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
+-->
 ---
 ## O que eu fiz essa semana:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=asmartins)](https://github.com/anuraghazra/github-readme-stats)
 
--->
+
