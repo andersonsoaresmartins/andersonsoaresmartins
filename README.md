@@ -18,7 +18,7 @@ Olá, Mundo! 👋
 
 ---
 ## Linguagens que mais estou usando:
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
