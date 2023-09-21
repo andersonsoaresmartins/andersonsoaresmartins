@@ -1,27 +1,122 @@
-Olá, Mundo! 👋
----
+# Hi, my name is Anderson Soares Martins
 
-- 🔭 *Estou atualmente trabalhando com PHP e LARAVEL.*
-<!-- - 🌱 *Atualmente focado em aprender* [<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />](https://laravel.com/) -->
-- 📫 ***Como entrar em contato comigo:***
+I am using this account to host my personal projects and other things I try for fun.
+## 🚀 About Me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/asmartins999/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/asmartins999) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/asmartins999) [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://wa.me/5511973406024) [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/asmartins) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/asmartins999)
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+Fullstack PHP and Python developer, I have a huge experience with development solutions for different problems. For me code is about changing lives and helping to make the world a better place.
+I am passionate about coding and always seek to challenge myself.
 
----
-## Tecnologias que uso e/ou conheço:
-[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://html.com/) [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://www.w3.org/Style/CSS/Overview.en.html#translations) [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />](https://www.javascript.com/) [<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />](https://www.php.net/) [<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/) [<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />](https://www.markdownguide.org/) [<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />](https://tailwindcss.com/) [<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />](https://laravel.com/) [<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />](https://git-scm.com/) [<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />](https://www.nginx.com/) [<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" />](https://www.apache.org/) [<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />](https://www.apachefriends.org/pt_br/index.html) [<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />](https://www.microsoft.com/pt-br/windows/) [<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />](https://www.linux.org/) [<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />](https://www.apple.com/br/macos/big-sur/) [<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />](https://code.visualstudio.com/) [<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />](https://www.sublimetext.com/) [<img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" />](https://www.jetbrains.com/pt-br/phpstorm/) [<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />](https://www.microsoft.com/pt-br/microsoft-365/excel) [<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />](https://www.microsoft.com/pt-br/microsoft-365/powerpoint) [<img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" />](https://www.microsoft.com/pt-br/microsoft-365/access) [<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />](https://www.microsoft.com/pt-br/microsoft-365/word) [<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />](https://trello.com/)
+<!--
+I contribute video class for
+<a href="https://dio.me">
+  <img src="/images/logo-diome.png"  width=52 height=20>
+</a>. 
+-->
 
----
-## Linguagens que mais estou usando:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub Stats:
 
----
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&count_private=true&show_icons=true&theme=merko&hide=css"/> </a>
+
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andersonsoaresmartins&theme=merko&line_height=40&hide=css&layout=compact"/> </a>
 
 
-## O que eu fiz essa semana:
-[![Status semanal](https://github-readme-stats.vercel.app/api/wakatime?username=asmartins&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=andersonsoaresmartins&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+## 🛠 Tech Stack
+
+- Languages: &nbsp;
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+  ![PL/SQL](https://img.shields.io/badge/-PL/SQL-333333?style=flat&logo=PLSQL)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+- Frameworks: &nbsp;
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
+<!--  
+  ![VueJS](https://img.shields.io/badge/-Vue.JS-333333?style=flat&logo=vue.js) 
+-->
+
+- Databases:  &nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
+  ![SQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
+  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+<!--  
+  ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
+  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-333333?style=flat&logo=elasticsearch&logoColor=f3d337)
+-->
+- Charts:  &nbsp;
+  ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=grafana)
+<!--
+  ![Kibana](https://img.shields.io/badge/-Kibana-333333?style=flat&logo=kibana&logoColor=d7689d)
+  ![ChartJS](https://img.shields.io/badge/-Chart.JS-333333?style=flat&logo=chart.js)
+
+
+- Monitoring and Observability:  &nbsp;
+  ![Elastic APM](https://img.shields.io/badge/-Elastic%20APM-333333?style=flat&logo=https://www.davincigroup.es/wp-content/uploads/2021/03/apm-logo-color.png)
+  ![Logstash](https://img.shields.io/badge/-Logstash-333333?style=flat&logo=logstash&logoColor=40769e)
+  ![Elastic Beats](https://img.shields.io/badge/-Elastic%20Beats-333333?style=flat&logo=beats&logoColor=66b5ae)
+  ![Splunk](https://img.shields.io/badge/-Splunk-333333?style=flat&logo=splunk)
+  ![Dynatrace](https://img.shields.io/badge/-Dynatrace-333333?style=flat&logo=dynatrace)
+
+-->
+- Cloud Computer:  &nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoftazure&logoColor=0078D4)
+<!--  
+  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333333?style=flat&logo=googlecloud)
+  ![IBM Cloud](https://img.shields.io/badge/-IBM%20Cloud-333333?style=flat&logo=ibmcloud&logoColor=1261FE)
+  ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=digitalocean)
+  ![Elastic Cloud](https://img.shields.io/badge/-Elastic%20Cloud-333333?style=flat&logo=elasticcloud&logoColor=a0c443)
+  
+- Chatbot:  &nbsp;
+  ![IBM Watson](https://img.shields.io/badge/-IBM%20Watson-333333?style=flat&logo=ibmwatson)
+  ![Dialogflow](https://img.shields.io/badge/-Dialogflow-333333?style=flat&logo=dialogflow)
+  ![Rasa](https://img.shields.io/badge/-RASA-333333?style=flat&logo=rasa)
+-->
+- Container and Virtualization:  &nbsp;
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![VirtualBox](https://img.shields.io/badge/-VirtualBox-333333?style=flat&logo=virtualbox)
+  ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=vmware)
+<!--
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+-->
+- Message Queue:  &nbsp;
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=rabbitmq)
+  ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apachekafka)
+  ![Celery](https://img.shields.io/badge/-Celery-333333?style=flat&logo=celery&logoColor=37814A)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+
+- Deployment:  &nbsp;
+  ![NGINX](https://img.shields.io/badge/-NGINX-333333?style=flat&logo=nginx&logoColor=009639)
+  ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache&logoColor=D22128)
+
+
+- IDEs: &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm&logoColor=f70486)
+  ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-333333?style=flat&logo=jupyter)
+
+
+## 🔗 Links
+
+<a href="https://www.linkedin.com/in/asmartins999">
+  <img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/andersonsoaresmartins">
+  <img align="center" src="https://img.shields.io/badge/github-white?logo=github&style=for-the-badge&logoColor=black" />
+</a>
+<!--
+<a href="https://www.youtube.com/rafaelgalleani">
+  <img align="center" src="https://img.shields.io/badge//rafaelgalleani-critical?logo=youtube&style=for-the-badge&logoColor=white" />
+</a>
+-->
