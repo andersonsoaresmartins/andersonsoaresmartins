@@ -3,7 +3,7 @@
 I am using this account to host my personal projects and other things I try for fun.
 ## 🚀 About Me
 
-Fullstack PHP and Python developer, I have a huge experience with development solutions for different problems. For me code is about changing lives and helping to make the world a better place.
+Fullstack PHP and Laravel Developer, Python developer, I have a huge experience with development solutions for different problems. For me code is about changing lives and helping to make the world a better place.
 I am passionate about coding and always seek to challenge myself.
 
 <!--
@@ -30,8 +30,8 @@ I contribute video class for
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![PL/SQL](https://img.shields.io/badge/-PL/SQL-333333?style=flat&logo=PLSQL)
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+<!-- ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) -->
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 - Frameworks: &nbsp;
