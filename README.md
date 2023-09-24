@@ -27,7 +27,7 @@ I contribute video class for
 ## 🛠 Tech Stack
 
 - Languages: &nbsp;
-  ![PHP](https://img.shields.io/badge/-PHP-3333?style=flat&logo=PHP)
+  ![PHP](https://img.shields.io/badge/-PHP-3333333?style=flat&logo=PHP)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![PL/SQL](https://img.shields.io/badge/-PL/SQL-333333?style=flat&logo=PLSQL)
 <!-- ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
