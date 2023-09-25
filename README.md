@@ -6,23 +6,16 @@ I am using this account to host my personal projects and other things I try for 
 Fullstack PHP and Laravel Developer, Python developer, I have a huge experience with development solutions for different problems. For me code is about changing lives and helping to make the world a better place.
 I am passionate about coding and always seek to challenge myself.
 
-<!--
-I contribute video class for
-<a href="https://dio.me">
-  <img src="/images/logo-diome.png"  width=52 height=20>
-</a>. 
--->
-
 ## 📊 GitHub Stats:
 
-<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&count_private=true&show_icons=true&theme=merko&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&count_private=true&show_icons=true&theme=transparent&hide=css"/> </a>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andersonsoaresmartins&theme=merko&line_height=40&hide=css&layout=compact"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andersonsoaresmartins&theme=transparent&line_height=40&hide=css&layout=compact"/> </a>
 
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=andersonsoaresmartins&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=andersonsoaresmartins&theme=transparent&no-frame=true&no-bg=false&margin-w=4)
 
 ## 🛠 Tech Stack
 
