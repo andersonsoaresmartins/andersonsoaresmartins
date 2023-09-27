@@ -1,6 +1,5 @@
 # Hi, my name is Anderson Soares Martins
 
-I am using this account to host my personal projects and other things I try for fun.
 ## 🚀 About Me
 
 Fullstack PHP and Laravel Developer, Python developer, I have a huge experience with development solutions for different problems. For me code is about changing lives and helping to make the world a better place.
@@ -8,7 +7,7 @@ I am passionate about coding and always seek to challenge myself.
 
 <table>
   <a href="https://github.com/andersonsoaresmartins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact&langs_count=6&theme=tokyonight"/>
   <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
@@ -19,7 +18,7 @@ I am passionate about coding and always seek to challenge myself.
 </table>
 
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andersonsoaresmartins&theme=transparent&line_height=40&hide=css&layout=compact"/> </a>
+<!-- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andersonsoaresmartins&theme=transparent&line_height=40&hide=css&layout=compact"/> </a> -->
 
 
 ## 🏆 GitHub Trophies
