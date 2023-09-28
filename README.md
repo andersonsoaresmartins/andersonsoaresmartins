@@ -3,7 +3,7 @@
 <table>
   <a href="https://github.com/andersonsoaresmartins">
   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonsoaresmartins&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img width="45%" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact&langs_count=6&theme=transparent"/>
+  <img width="45%" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact&langs_count=6&theme=transparent"/>
   <br>
   <img src="https://img.icons8.com/color/2x/php.png" width="120" alt="php">
   <img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="120" alt="Laravel">
