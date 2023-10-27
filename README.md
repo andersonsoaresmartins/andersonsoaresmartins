@@ -6,7 +6,7 @@
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonsoaresmartins&layout=compact&langs_count=6&theme=transparent"/>
 
 ## O que eu fiz essa semana:
-[![Status semanal](https://github-readme-stats.vercel.app/api/wakatime?username=asmartins999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Status semanal](https://github-readme-stats.vercel.app/api/wakatime?username=andersonsoaresmartins&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   <br>
   <img src="https://img.icons8.com/color/2x/php.png" width="120" alt="php">
